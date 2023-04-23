@@ -521,3 +521,12 @@ h2 {
 .company:nth-child(even)::before{
   right: -.5em;
 } 
+
+@media only screen and (max-width: 900px) {
+  .timeline {
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    font-size: 5px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }

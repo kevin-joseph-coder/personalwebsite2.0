@@ -16,7 +16,7 @@ export const Banner = () => {
             <TrackVisibility>
               {({ isVisible }) =>
               <div>
-                <span className="tagline">Welcome to my Portfolio</span>
+                <span className="tagline">Welcome to my Website</span>
                 <h1>{`Hi! I'm Kevin`} </h1>
                   <p>I'm a Computer Science Student at the University of Texas at Dallas</p>
               </div>}

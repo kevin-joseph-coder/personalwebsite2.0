@@ -1,5 +1,5 @@
 import { Container, Row,Col } from "react-bootstrap";
-import resumeImg from "../assets/ResumeKe.png";
+import resumeImg from "../assets/resumepic.png";
 import 'animate.css';
 
 export const Resume = () => {
